@@ -1,7 +1,7 @@
 # Features
-  Uses AES algorithm to encrypt files.
-  Uses RSA to protect the key
-  Change the background image
+ - Uses AES algorithm to encrypt files.
+ - Uses RSA to protect the key
+ - Change the background image
 
 
 # Disclaimer
